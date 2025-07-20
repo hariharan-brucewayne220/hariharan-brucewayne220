@@ -26,7 +26,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C#-00599C?style=flat&logo=c%2B%2B)
 
 **AI/ML**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -55,14 +55,14 @@
 - Whisper + Vosk + Groq for voice + ultra-low-latency LLM  
 - LangChain + ChromaDB = real-time PDF-based game assistant  
 🛠️ Python · FastAPI · DirectInput · Whisper · LangChain  
-🔗 [GitHub](https://github.com/hariharan-brucewayne220/) (private link or repo to be added)
+🔗 [GitHub](https://github.com/hariharan-brucewayne220/ai-gesture-game) 
 
 #### 📈 AI Stock Predictor (LSTM + Sentiment)
 > Predict stock trends with time-series + LLM-based sentiment  
 - LSTM + TA indicators + news/forum sentiment  
 - FastAPI backend + React frontend, 10K+ monthly hits  
 🛠️ PyTorch · NLTK · FastAPI · React  
-🔗 [GitHub](https://github.com/hariharan-brucewayne220/) (private link or repo to be added)
+🔗 [GitHub](https://github.com/hariharan-brucewayne220/nextjs-stock-predictor) 
 
 ---
 
