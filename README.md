@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hariharan Loganathan</h1>
-<h3 align="center">AI Engineer · Founding Engineer @ GeneGenius · MSCS @ NYU '26 · Ex-Zenoti</h3>
+<h3 align="center">AI Engineer · Founding SWE @ CEART · Founding Engineer @ GeneGenius · MSCS @ NYU '26 · Ex-Zenoti</h3>
 
 ---
 
 ### 🧠 About Me
 
+- ⚡ **Founding Software Engineer @ CEART**: AI-powered due diligence for renewable energy developments (CEARTscore); I work across the Next.js/Supabase scoring dashboard and the Python event-sourced analysis worker on Railway
 - 🧬 **Founding Engineer @ GeneGenius**: early-stage AI platform for clinical genomic variant interpretation (NVIDIA Inception member)
 - 🤖 I build **agentic LLM systems**: RAG pipelines, LangGraph agents, real-time voice+vision AI, and LLM evaluation platforms
 - 🎓 M.S. in Computer Science @ **NYU** (2024–2026) · TA for Information Visualization & Information Security
