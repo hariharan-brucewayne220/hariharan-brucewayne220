@@ -119,8 +119,12 @@
 
 ### 📊 GitHub Stats
 
-![Hariharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariharan-brucewayne220&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-brucewayne220&layout=compact&theme=tokyonight)
+<p>
+  <img src="generated/stats.svg" alt="Hariharan's GitHub Stats" />
+  <img src="generated/top-langs.svg" alt="Most Used Languages" />
+</p>
+
+<sub>Stats generated weekly from the GitHub API by <a href=".github/workflows/update-stats.yml">a GitHub Action</a>.</sub>
 
 ---
 
