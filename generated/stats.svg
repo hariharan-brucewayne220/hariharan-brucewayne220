@@ -3,17 +3,17 @@
 <text x="25" y="35" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#70a5fd">Hariharan's GitHub Stats</text>
 <circle cx="30" cy="63" r="3.5" fill="#bf91f3"/>
 <text x="44" y="68" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#a9b1d6">Contributions (last year)</text>
-<text x="470" y="68" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#38bdae">647</text>
+<text x="470" y="68" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#38bdae">660</text>
 <circle cx="30" cy="89" r="3.5" fill="#bf91f3"/>
 <text x="44" y="94" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#a9b1d6">Public commits (last year)</text>
-<text x="470" y="94" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#38bdae">251</text>
+<text x="470" y="94" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#38bdae">249</text>
 <circle cx="30" cy="115" r="3.5" fill="#bf91f3"/>
 <text x="44" y="120" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#a9b1d6">Private contributions (last year)</text>
-<text x="470" y="120" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#38bdae">340</text>
+<text x="470" y="120" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#38bdae">353</text>
 <circle cx="30" cy="141" r="3.5" fill="#bf91f3"/>
 <text x="44" y="146" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#a9b1d6">Total pull requests</text>
-<text x="470" y="146" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#38bdae">105</text>
+<text x="470" y="146" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#38bdae">43</text>
 <circle cx="30" cy="167" r="3.5" fill="#bf91f3"/>
 <text x="44" y="172" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#a9b1d6">Repositories</text>
-<text x="470" y="172" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#38bdae">46</text>
+<text x="470" y="172" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#38bdae">40</text>
 </svg>
