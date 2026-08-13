@@ -9,7 +9,7 @@
 - **Founding Engineer @ GeneGenius**: early-stage AI platform for clinical genomic variant interpretation (NVIDIA Inception member)
 - M.S. in Computer Science @ **NYU** (2024–2026) · TA for Information Visualization & Information Security
 - 3 years @ **Zenoti** as a Software Engineer: C#/.NET microservices, Kafka event pipelines, and high-throughput backend systems serving 1,000+ globally distributed nodes
-- Contributing to open source: **[DSPy](https://github.com/stanfordnlp/dspy)** (Stanford NLP)
+- Contributing to open source
 
 ---
 
