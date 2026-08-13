@@ -126,5 +126,3 @@
 <sub>Stats generated weekly from the GitHub API by <a href=".github/workflows/update-stats.yml">a GitHub Action</a>.</sub>
 
 ---
-
-> *"I build systems that think. Then I teach them to listen."*
