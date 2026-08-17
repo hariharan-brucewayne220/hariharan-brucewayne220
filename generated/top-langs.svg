@@ -2,17 +2,17 @@
 <rect width="495" height="310" rx="8" fill="#1a1b27" stroke="#2a2c3f"/>
 <text x="25" y="35" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#70a5fd">Most Used Languages</text>
 <text x="25" y="66" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">Python</text>
-<text x="470" y="66" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">74.4%</text>
+<text x="470" y="66" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">74.7%</text>
 <rect x="25" y="73" width="445" height="8" rx="4" fill="#2a2c3f"/>
-<rect x="25" y="73" width="330.9" height="8" rx="4" fill="#3572A5"/>
+<rect x="25" y="73" width="332.3" height="8" rx="4" fill="#3572A5"/>
 <text x="25" y="106" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">JavaScript</text>
-<text x="470" y="106" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">14.4%</text>
+<text x="470" y="106" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">14.2%</text>
 <rect x="25" y="113" width="445" height="8" rx="4" fill="#2a2c3f"/>
-<rect x="25" y="113" width="63.9" height="8" rx="4" fill="#f1e05a"/>
+<rect x="25" y="113" width="63.2" height="8" rx="4" fill="#f1e05a"/>
 <text x="25" y="146" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">TypeScript</text>
-<text x="470" y="146" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">9.2%</text>
+<text x="470" y="146" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">9.1%</text>
 <rect x="25" y="153" width="445" height="8" rx="4" fill="#2a2c3f"/>
-<rect x="25" y="153" width="40.8" height="8" rx="4" fill="#3178c6"/>
+<rect x="25" y="153" width="40.3" height="8" rx="4" fill="#3178c6"/>
 <text x="25" y="186" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">Kotlin</text>
 <text x="470" y="186" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">1.0%</text>
 <rect x="25" y="193" width="445" height="8" rx="4" fill="#2a2c3f"/>
