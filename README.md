@@ -68,6 +68,8 @@
 
 ### Open Source
 
+- **[orval](https://github.com/orval-labs/orval)** (OpenAPI → TypeScript client generator): fixed mock generation leaking runtime enum imports into generated clients, which broke `consistent-type-imports` for consumers ([#4009](https://github.com/orval-labs/orval/pull/4009), follow-up [#4010](https://github.com/orval-labs/orval/pull/4010))
+- **[Mastra](https://github.com/mastra-ai/mastra)** (TypeScript AI agent framework): memory recall no longer requests vector search when no vector store is configured ([#20941](https://github.com/mastra-ai/mastra/pull/20941))
 - **[DSPy](https://github.com/stanfordnlp/dspy)** (Stanford NLP): fixes for multimodal file/video block handling ([#9903](https://github.com/stanfordnlp/dspy/pull/9903)) and chat-history formatting in system prompts ([#9905](https://github.com/stanfordnlp/dspy/pull/9905))
 
 ---
